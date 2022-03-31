@@ -1,0 +1,6 @@
+# gitalk-study
+这是一个留言贴，你想说点什么.......
+
+这个奇妙的点子来自[CrazyMrYan/gitalk-study](https://github.com/CrazyMrYan/gitalk-study)
+
+我想还可以加点什么，让它的形象滚动起来.......
